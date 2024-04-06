@@ -80,11 +80,11 @@
 
         layer_Layer__4 {
             bindings = <
- &trans         &trans         &trans         &trans         &trans  &trans            &trans                                                  &trans              &trans              &trans            &trans               &trans  &trans  &trans
- &trans         &trans         &trans         &trans         &trans  &trans            &trans                                                  &trans              &trans     &kp LS(LC(TAB))       &kp LC(TAB)               &trans  &trans  &trans
- &trans  &kp LS(LA(A))  &kp LS(LA(S))  &kp LS(LA(W))  &kp LS(LA(D))  &trans            &trans  &trans  &trans                  &trans  &trans  &trans      &kp LEFT_ARROW      &kp DOWN_ARROW      &kp UP_ARROW      &kp RIGHT_ARROW  &trans  &trans
- &trans         &trans         &trans         &trans         &trans  &trans                            &trans                  &trans                  &kp LA(LEFT_ARROW)  &kp LA(DOWN_ARROW)  &kp LA(UP_ARROW)  &kp LA(RIGHT_ARROW)  &trans  &trans
- &trans         &trans         &trans         &trans         &trans                    &trans  &trans  &trans                  &trans  &trans  &trans                                  &trans            &trans               &trans  &trans  &trans
+ &trans         &trans         &trans         &trans         &trans  &trans            &trans                                                  &trans          &trans           &trans        &trans           &trans  &trans  &trans
+ &trans         &trans         &trans         &trans         &trans  &trans            &trans                                                  &trans          &trans  &kp LS(LC(TAB))   &kp LC(TAB)           &trans  &trans  &trans
+ &trans  &kp LS(LA(A))  &kp LS(LA(S))  &kp LS(LA(W))  &kp LS(LA(D))  &trans            &trans  &trans  &trans                  &trans  &trans  &trans  &kp LEFT_ARROW   &kp DOWN_ARROW  &kp UP_ARROW  &kp RIGHT_ARROW  &trans  &trans
+ &trans         &trans         &trans         &trans         &trans  &trans                            &trans                  &trans                       &kp LA(A)        &kp LA(S)     &kp LA(W)        &kp LA(D)  &trans  &trans
+ &trans         &trans         &trans         &trans         &trans                    &trans  &trans  &trans                  &trans  &trans  &trans                           &trans        &trans           &trans  &trans  &trans
             >;
         };
 
