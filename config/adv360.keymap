@@ -80,11 +80,11 @@
 
         layer_Layer__4 {
             bindings = <
- &trans           &trans           &trans           &trans           &trans     &trans            &trans                                                  &trans          &trans           &trans        &trans           &trans  &trans  &trans
- &trans           &trans           &trans           &trans           &trans     &trans            &trans                                                  &trans          &trans  &kp LS(LC(TAB))   &kp LC(TAB)           &trans  &trans  &trans
- &trans    &kp LS(LA(A))    &kp LS(LA(S))    &kp LS(LA(W))    &kp LS(LA(D))  &kp LA(F)            &trans  &trans  &trans                  &trans  &trans  &trans  &kp LEFT_ARROW   &kp DOWN_ARROW  &kp UP_ARROW  &kp RIGHT_ARROW  &trans  &trans
- &trans  &kp LS(LCMD(A))  &kp LS(LCMD(S))  &kp LS(LCMD(W))  &kp LS(LCMD(D))     &trans                            &trans                  &trans                       &kp LA(H)        &kp LA(H)     &kp LA(L)        &kp LA(L)  &trans  &trans
- &trans           &trans           &trans           &trans           &trans                       &trans  &trans  &trans                  &trans  &trans  &trans                           &trans        &trans           &trans  &trans  &trans
+ &trans         &trans         &trans         &trans         &trans     &trans            &trans                                                  &trans          &trans           &trans        &trans           &trans  &trans  &trans
+ &trans         &trans         &trans         &trans         &trans     &trans            &trans                                                  &trans          &trans  &kp LS(LC(TAB))   &kp LC(TAB)           &trans  &trans  &trans
+ &trans  &kp LS(LA(A))  &kp LS(LA(S))  &kp LS(LA(W))  &kp LS(LA(D))  &kp LA(F)            &trans  &trans  &trans                  &trans  &trans  &trans  &kp LEFT_ARROW   &kp DOWN_ARROW  &kp UP_ARROW  &kp RIGHT_ARROW  &trans  &trans
+ &trans  &kp LS(LG(A))  &kp LS(LG(S))  &kp LS(LG(W))  &kp LS(LG(D))     &trans                            &trans                  &trans                       &kp LA(H)        &kp LA(H)     &kp LA(L)        &kp LA(L)  &trans  &trans
+ &trans         &trans         &trans         &trans         &trans                       &trans  &trans  &trans                  &trans  &trans  &trans                           &trans        &trans           &trans  &trans  &trans
             >;
         };
 
